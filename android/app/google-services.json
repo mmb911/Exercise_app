@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754277759428",
+    "project_id": "exercise-app-ecfad",
+    "storage_bucket": "exercise-app-ecfad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754277759428:android:2b1203175794242f1f4c91",
+        "android_client_info": {
+          "package_name": "com.example.exercises_app_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754277759428-rk3g3j9t6vui2jenmld4qh2hstg265tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2juZwcfBea3GmwS3fZqYY8ImBCtfDC5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754277759428-rk3g3j9t6vui2jenmld4qh2hstg265tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
