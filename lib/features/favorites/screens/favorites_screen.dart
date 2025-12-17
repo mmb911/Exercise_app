@@ -61,7 +61,7 @@ class FavoritesScreen extends ConsumerWidget {
               return ExerciseCard(
                 exercise: exercise,
                 onTap: () {
-                  context.go(
+                  context.push(
                     RouteConstants.exerciseDetailRoute(exercise.id),
                     extra: exercise,
                   );
