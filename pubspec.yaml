@@ -140,7 +140,7 @@ flutter:
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: "lib/assets/fitHub_logo.png"
+  image_path: "lib/assets/FitHub_logo_icon.png"
   adaptive_icon_background: "#FFFFFF"
-  adaptive_icon_foreground: "lib/assets/fitHub_logo.png"
+  adaptive_icon_foreground: "lib/assets/FitHub_logo_icon.png"
 
