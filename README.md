@@ -290,7 +290,7 @@ Exercise_app/
 
 For questions about this project, contact:
 - Email: mbmonther@gmail.com
-- GitHub: mmb911
+- GitHub: [mmb911](https://github.com/mmb911)
 
 ## Acknowledgments
 
