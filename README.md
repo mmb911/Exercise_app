@@ -275,7 +275,14 @@ Exercise_app/
 
 ## Screenshots
 
-> Add screenshots here after running the app
+![photo_1_2025-12-17_18-02-04](https://github.com/user-attachments/assets/68a50fea-0c62-4b70-a8e8-6b1418e5a45e)
+![photo_3_2025-12-17_18-02-04](https://github.com/user-attachments/assets/8dde60cc-98ac-4eef-91a9-3c4d47d11ba3)
+![photo_8_2025-12-17_18-02-04](https://github.com/user-attachments/assets/1beef762-8a9e-40bc-8bf8-18f9ea2ceac9)
+![photo_7_2025-12-17_18-02-04](https://github.com/user-attachments/assets/962261bc-f17e-4a8d-be19-2![photo_5_2025-12-17_18-02-04](https://github.com/user-attachments/assets/86e3252c-9a4d-4906-9ba7-28bfd413f531)
+e15b2aa7e26)
+![photo_4_2025-12-17_18-02-04](https://github.com/user-attachments/assets/9decf3d6-464b-4207-b4f2-2e4a0ae19de3)
+![photo_2_2025-12-17_18-02-04](https://github.com/user-attachments/assets/3f403846-283c-4953-be70-72a6370c79c8)
+
 
 ## Known Issues
 
