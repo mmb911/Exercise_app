@@ -48,3 +48,9 @@ app.*.map.json
 .env
 *.env
 !.env.example
+
+# Release keystore - NEVER commit these!
+*.jks
+*.keystore
+android/key.properties
+release-keystore.jks
