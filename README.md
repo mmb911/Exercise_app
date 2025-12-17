@@ -293,8 +293,8 @@ Exercise_app/
 ## Contact
 
 For questions about this project, contact:
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- Email: mbmonther@gmail.com
+- GitHub: mmb911
 
 ## Acknowledgments
 
